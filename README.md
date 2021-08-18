@@ -52,7 +52,7 @@ https://velog.io/@sui3422/Dr.Mozza-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Dr.Jart-
 - 디테일페이지
 <br>
 
-## 작업페이지 설명 (회원가입, 로그인 생략)
+## 작업페이지 설명
 
 ## 장바구니 페이지
 
@@ -63,11 +63,16 @@ https://velog.io/@sui3422/Dr.Mozza-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Dr.Jart-
 4. 재고 이상 수량 입력 불가 및 alert 으로 재고부족 경고
 5. 수량입력창은 max 99, min 1
 
+![cart](https://user-images.githubusercontent.com/80690729/129880846-e3383fc4-2bc9-45c0-bdd0-29172d75c681.gif)
+
+
 ## 결제 페이지
 
 -결제페이지 구현 기능 목록-
 1. '%' 쿠폰 / '가격감소 쿠폰' 적용가능
 2. 주소API 를 통한 주소입력
+
+![check](https://user-images.githubusercontent.com/80690729/129880919-cf79dde8-47dd-4bec-afd2-30a2bfa5f747.gif)
 
 ## 주소 API 개선 (결제 페이지에 사용)
 사용 라이브러리 : https://www.npmjs.com/package/react-daum-postcode
@@ -75,6 +80,15 @@ https://velog.io/@sui3422/Dr.Mozza-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Dr.Jart-
 1. 내부의 함수가 직관적이지 못하여 코드 개선
 2. 개선사항 Detail: https://velog.io/@sui3422/react-daum-postcode-%EC%BD%94%EB%93%9C-%EA%B0%9C%EC%84%A0
 
+![postcode](https://user-images.githubusercontent.com/80690729/129881106-00aef003-9820-4e35-b21d-cfb64aefbd9b.jpg)
+
+## 회원가입
+
+![signup](https://user-images.githubusercontent.com/80690729/129881170-ddfd3c0f-3ddf-4917-944d-6174d26dcf88.gif)
+
+## 로그인
+
+![signin](https://user-images.githubusercontent.com/80690729/129881185-96dd6005-aa4f-458b-bdea-1355eba892fa.gif)
 
 ## Reference
 
