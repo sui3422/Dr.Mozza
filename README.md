@@ -50,7 +50,6 @@ https://velog.io/@sui3422/Dr.Mozza-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Dr.Jart-
 **<황소미>**
 - 상품페이지
 - 디테일페이지
-- 
 <br>
 
 ## 작업페이지 설명 (회원가입, 로그인 생략)
