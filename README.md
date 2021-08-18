@@ -37,5 +37,5 @@
 사용 라이브러리 : https://www.npmjs.com/package/react-daum-postcode
 
 1. 내부의 함수가 직관적이지 못하여 코드 개선
-2. 개선사항 Detail: https://velog.io/@sui3422/react-daum-postcode-%EC%BD%94%EB%93%9C-%EA%B0%9C%EC%84%A0)
+2. 개선사항 Detail: https://velog.io/@sui3422/react-daum-postcode-%EC%BD%94%EB%93%9C-%EA%B0%9C%EC%84%A0
   
